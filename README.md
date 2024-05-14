@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a web and cloud developer. I am also a pega developer. I love programming. 
+As a Salesforce developer with prior experience in Pega development, I am passionate about programming and possess a specialization in Cloud Computing.
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 - 🔭 I’m currently working on Web Developing.
